@@ -1,2 +1,1 @@
-This is my solution for the final challenge in the Big
-Nerd Ranch Objective C guide, 2nd edition.
+My solution to the BNR Objective C Guide, 2nd edition final challenge.
